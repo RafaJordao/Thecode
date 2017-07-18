@@ -1,0 +1,3 @@
+Para que serve o comando git diff ? 
+
+Resposta: Para mostrar as diferenças entre meu último commit e o meu repositório remoto. 

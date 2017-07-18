@@ -1,0 +1,4 @@
+Qual a diferença entre git e github ? 
+
+Resposta: Git -> Ferramenta para versionamento de projeto.
+	  Github-> Site onde é alocado os projetos versionados. 

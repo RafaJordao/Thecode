@@ -1,0 +1,6 @@
+Ao rodar o comando git status, quais os estados que os arquivos podem estar ?
+
+Resposta: Modified  -> Arquivo que já foi moodificado.
+	  New       ->Arquivo novo.
+	  Deleted   ->Arquivo deletado.
+	  Untracked ->Arquivo não gerenciado pelo git. 

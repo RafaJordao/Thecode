@@ -1,0 +1,3 @@
+O que você entende de commit ? 
+
+Resposta:O commit serve para guardar descrições feitas no projeto.

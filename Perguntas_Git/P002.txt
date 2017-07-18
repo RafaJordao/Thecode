@@ -1,0 +1,3 @@
+O que é repositório?
+
+Resposta: É um local onde é salvo cada funcionalidade do software, desde banco de dados a código-fonte do meu projeto.

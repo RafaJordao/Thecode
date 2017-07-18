@@ -1,0 +1,3 @@
+É correto afirmar que o diretório .git pode ser excluído ? Justifique sua resposta. 
+
+Resposta: Não, pois nele contém todos os dados dados sobre branch, logs, commits e tags existentes no repositório local. 

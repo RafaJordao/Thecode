@@ -1,0 +1,3 @@
+Descreva o git push .
+
+Resposta: Ele serve para mandar as ultimas modificações para o servidor ou github.

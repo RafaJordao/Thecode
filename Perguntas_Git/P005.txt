@@ -1,0 +1,4 @@
+O que você entende por staging area ?
+
+Resposta: É para onde os arquivos ou pastas que são adicionadas pelo git add, são direcionados para a Staging area
+(área de implementação), onde após usar o git add, é possível commitar arquivo ou pasta. 

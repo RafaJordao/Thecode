@@ -1,0 +1,4 @@
+Qual a finalidade do controle de versão ?
+
+Resposta:Guardar todo conjunto de modificações que foram necessárias para criar uma versão específica do 
+software, identificando pelo nome e versão do software

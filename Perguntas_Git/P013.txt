@@ -1,0 +1,4 @@
+O que você entende por branch ? 
+
+Resposta: Branch é um ponteiro que aponta para os commits, onde existe o master ( padrão )
+e é possível criar um novo branch com o comando: git branch nome_do_branch.

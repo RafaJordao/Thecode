@@ -1,0 +1,3 @@
+O que é você entende por repositório remoto ? 
+
+Resposta: É onde são alocados versões do projeto que estão hospedados no github.

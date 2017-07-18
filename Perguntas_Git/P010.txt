@@ -1,0 +1,3 @@
+Descreva o git pull.
+
+Resposta: Pega as modificações do repositório local e manda para o branch local 

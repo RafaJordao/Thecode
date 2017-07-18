@@ -1,0 +1,14 @@
+Dado o conteúdo postado sobre controle de versão, quais são os principais comandos
+
+Resposta: 
+	git init 
+	git status
+	git remote add 
+	git checkout
+	git stash
+	git merge 
+	git push
+	git pull
+	git diff
+	git commit -m
+	git log 
